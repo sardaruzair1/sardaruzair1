@@ -1,4 +1,4 @@
-(https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Sardar Uzair</h1>
 <h3 align="center">A passionate Website Developer From Pakistan</h3>
