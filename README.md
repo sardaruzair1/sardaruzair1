@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Business Software**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 always learning **programming**
 
 - 📝 I regularly write articles on [coding](coding)
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **sardaruzair123456789@gmail.com**
+- 📫 How to reach me **solutionsardar@gmail.com**
 
 - ⚡ Fun fact **Always Learning**
 
